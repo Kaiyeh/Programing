@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1458048290 source:e:\c\project_matrix\matrix\main.cpp
+	<iostream>
+	"matrix33.h"
+
+1458034030 e:\c\project_matrix\matrix\matrix33.h
+	"vector3.h"
+
+1458007065 e:\c\project_matrix\matrix\vector3.h
+
+1458048147 source:e:\c\project_matrix\matrix\matrix33.cpp
+	"matrix33.h"
+	<math.h>
+	<iostream>
+
+1458048147 source:e:\c\project_matrix\matrix\vector3.cpp
+	"vector3.h"
+	<math.h>
+	<iostream>
+
